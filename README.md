@@ -47,8 +47,8 @@ Copy this link https://heroku.com/deploy?template=https://github.com/Ajmal-Achu/
 GET QR
 $ apt install git
 $ apt install nodejs --fix-missing
-$ git clone https://github.com/Ajmal-Achu/Nandhutty_v2
-$ cd Nandhutty_v2
+$ git clone https://github.com/fayas-sir/Kelly-mowlv3
+$ cd Kelly-mowlv3
 $ npm install @adiwajshing/baileys
 $ npm install chalk
 $ node julie.js
@@ -57,7 +57,7 @@ $ node julie.js
 ```js
 SETUP
 $ git clone https://github.com/Ajmallllllll/Nandhutty_v2
-$ cd Nandhutty_v2
+$ cd Kelly-mowlv3
 $ npm i
 $ node julie.js
 ```
@@ -97,7 +97,7 @@ By establishing the Asena, you are deemed to have accepted these responsibilitie
 
 ## THANKS TO
 * [`Baileys`]
-* [`Ajmal-Achu`](github.com/Ajmal-Achu)
+* [`fayas-sir`](github.com/kelly-mowl)
 * [`Farhan-dqz`](github.com/Farhan-dqz)
 
 ## Developers
