@@ -3,7 +3,7 @@
     "description": "Kelly-mowlv3 is the Modified Version of WhatsAsena, Made By @farhan-dqz with Baileys.",
     "logo": "https://i.imgur.com/ADXSU8e.jpeg",
     "keywords": ["whatsapp", "userbot", "julie", "WhatsAsena", "mwol", "bot", "ai"],
-    "repository": "https://github.com/Ajmal-Achu/Nandhutty_v2",
+    "repository": "https://github.com/fayas-sir/Kelly-mowlv3",
     "stack": "container",
     "env": {
         "JULIE_SESSION": {
