@@ -12,7 +12,7 @@ if (Config.WORKTYPE == 'private') {
         }
 
         if (Config.OWNER == 'default') {
-            await message.client.sendMessage(message.jid,'*NANDHUTTY_V2 by AJMAL AND ACHU*' , MessageType.text);
+            await message.client.sendMessage(message.jid,'*❌️𝙺𝚎𝚕𝚕𝚢 𝙼𝚘𝚠𝚕 𝙱𝚘𝚝 𝙱𝚢 𝙵𝚊𝚢𝚊𝚜𝚂𝚒𝚛❌️*' , MessageType.text);
         }
         else {
             await message.client.sendMessage(message.jid,Config.OWNER + '\n\n---------------------', MessageType.text);
@@ -30,7 +30,7 @@ else if (Config.WORKTYPE == 'public') {
         }
 
         if (Config.OWNER == 'default') {
-            await message.client.sendMessage(message.jid,'*NANDHUTTY_V2 by AJMAL AND ACHU*' , MessageType.text);
+            await message.client.sendMessage(message.jid,'*❌️𝙺𝚎𝚕𝚕𝚢 𝙼𝚘𝚠𝚕 𝙱𝚘𝚝 𝙱𝚢 𝙵𝚊𝚢𝚊𝚜𝚂𝚒𝚛❌️*' , MessageType.text);
         }
         else {
             await message.client.sendMessage(message.jid,Config.OWNER + '\n\n--------------------', MessageType.text);
