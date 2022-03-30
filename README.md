@@ -133,4 +133,19 @@ This project is protected by `GNU General Public Licence v3.0` license.
 
 ### ABOUT KELLYMOWL
 
-  `THESE IS BGM BOT BY FAYAS SUBAIR CREATE DATE IS 2022 30 MARCH
+  
+𝙷𝚈 𝙼𝚄𝚃𝙷𝙴𝙴...👋
+
+              ⭐𝙱𝙾𝚃 𝙸𝙽𝙵𝙾⭐
+𝙽𝙰𝙼𝙴 : 𝙺𝙴𝙻𝙻𝚈𝙼𝙾𝚆𝙻
+𝚅𝙴𝚁𝚂𝙸𝙾𝙽 : 𝚅4
+𝙱𝙾𝚃 𝙲𝚁𝙴𝙰𝚃𝙸𝙽𝙶 𝙳𝙰𝚃𝙴 : 𝚆𝙴𝙳 30 𝙼𝙰𝚁𝙲𝙷
+ 𝚃𝙸𝙼𝙴: 8:38 𝙿𝙼
+                 💥𝙲𝚁𝙴𝙰𝚃𝙾𝚁💥
+            𝙵𝙰𝚈𝙰𝚂 𝚂𝚄𝙱𝙰𝙸𝚁
+©𝚃𝙴𝙰𝙼 𝙺𝙴𝙻𝙻𝚈𝙼𝙾𝚆𝙻
+
+
+
+
+
