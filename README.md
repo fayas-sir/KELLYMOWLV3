@@ -1,3 +1,13 @@
+<!---------- Typing SVG ---------->
+<p align="center">
+    <a href="https://avatars.githubusercontent.com/u/85664936?v=4">
+        <img
+            src="https://readme-typing-svg.herokuapp.com?font=Halo+Handletter&color=66ffe9&size=32&lines=WELCOME+TO+KELLYMOWLBOT;BGM+BOT+[forwa]...;MADE+BY....;fayas-sir"
+            alt="Typing SVG"
+        />
+    </a>
+</p>
+
 Hello Dude🙋🏻‍♀️Welcome to my Repo hi 📢Introduce myself 🙂I'm FAYAS 🚩I'm a beginner in this field 📍From Chungam,Alappuzha,Kerala,🇮🇳 🏫Students
 ## `Note`
 
